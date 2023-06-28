@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Htet",
+      "email": "h@gmail.com",
+      "passoword": "1234"
+    },
+    {
+      "id": 2,
+      "username": "Htet",
+      "email": "h@gmail.com",
+      "passoword": "1234"
+    },
+    {
+      "username": "Aung",
+      "email": "h@gmail.com",
+      "passoword": "1234",
+      "id": 3
+    },
+    {
+      "username": "Htet Htet",
+      "email": "h@gmail.com",
+      "password": "133705",
+      "id": 4
+    },
+    {
+      "username": "Xiao Zhan",
+      "email": "xiao@gmail.com",
+      "password": "123456",
+      "id": 5
+    }
+  ]
+}
